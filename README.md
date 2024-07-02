@@ -1,6 +1,6 @@
 # Hi there, I'm Kamil Bourouiba! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/kamil-bourouiba/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kamil-bourouiba/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kbourouiba@icloud.com)
 
 ## About Me 🚀
@@ -11,7 +11,7 @@ I'm a passionate iOS Developer passionate about crafting high-quality mobile app
 - 🌱 I’m currently learning about AI and Spatial Coding
 - 👯 I’m looking to collaborate on open-source iOS projects
 - 💬 Ask me about anything related to iOS development
-- 📫 How to reach me: [your.email@example.com](mailto:kbourouiba@icloud.com)
+- 📫 How to reach me: [kbourouiba@icloud.com](mailto:kbourouiba@icloud.com)
 - ⚡ Fun fact: I enjoy collecting and playing Magic the Gathering in my free time
 
 ## Skills 🛠️
