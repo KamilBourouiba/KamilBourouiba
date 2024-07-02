@@ -7,7 +7,7 @@
 
 I'm a passionate iOS Developer passionate about crafting high-quality mobile applications. With a strong appetence in Swift, I love turning innovative ideas into real, user-friendly apps.
 
-- 🔭 I’m currently working on [Project Name]([https://github.com/yourgithubusername/yourproject](https://github.com/KamilBourouiba/RequestEasy))
+- 🔭 I’m currently working on [Project Name]([https://github.com/KamilBourouiba/RequestEasy])
 - 🌱 I’m currently learning about AI and Spatial Coding
 - 👯 I’m looking to collaborate on open-source iOS projects
 - 💬 Ask me about anything related to iOS development
@@ -29,15 +29,15 @@ I'm a passionate iOS Developer passionate about crafting high-quality mobile app
 
 ## GitHub Stats 📊
 
-![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamilBourouiba&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamilBourouiba&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects 💻
 
-### [Request Easy package]([https://github.com/yourgithubusername/project1](https://github.com/KamilBourouiba/RequestEasy))
+### [Request Easy package]([https://github.com/KamilBourouiba/RequestEasy])
 A Swift package to simplify HTTP GET requests with different types of responses.
 
-### [The wolf Game]([https://github.com/yourgithubusername/project2](https://github.com/KamilBourouiba/wolf_game))
+### [The wolf Game]([[https://github.com/yourgithubusername/project2]])
 This Python script simulates a simple game between Wolves and Villagers. The game involves rounds of voting and wolf attacks until one group (Wolves or Villagers) emerges victorious. The simulation is run for a specified number of iterations to observe the outcome trends.
 
 ### [Relapsed App Open sourced]([https://github.com/yourgithubusername/project3](https://github.com/KamilBourouiba/Relapsed-OpenSourced))
