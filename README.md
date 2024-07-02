@@ -5,9 +5,9 @@
 
 ## About Me 🚀
 
-I'm a passionate iOS Developer passionate about crafting high-quality mobile applications. With a strong appetence in Swift, I love turning innovative ideas into real, user-friendly apps.
+I'm a passionate iOS Developer dedicated to crafting high-quality mobile applications. With a strong proficiency in Swift, I love turning innovative ideas into real, user-friendly apps.
 
-- 🔭 I’m currently working on [Project Name]([https://github.com/KamilBourouiba/RequestEasy])
+- 🔭 I’m currently working on [Request Easy](https://github.com/KamilBourouiba/RequestEasy)
 - 🌱 I’m currently learning about AI and Spatial Coding
 - 👯 I’m looking to collaborate on open-source iOS projects
 - 💬 Ask me about anything related to iOS development
@@ -34,19 +34,19 @@ I'm a passionate iOS Developer passionate about crafting high-quality mobile app
 
 ## Projects 💻
 
-### [Request Easy package]([https://github.com/KamilBourouiba/RequestEasy])
+### [Request Easy](https://github.com/KamilBourouiba/RequestEasy)
 A Swift package to simplify HTTP GET requests with different types of responses.
 
-### [The wolf Game]([[https://github.com/yourgithubusername/project2]])
+### [The Wolf Game](https://github.com/KamilBourouiba/TheWolfGame)
 This Python script simulates a simple game between Wolves and Villagers. The game involves rounds of voting and wolf attacks until one group (Wolves or Villagers) emerges victorious. The simulation is run for a specified number of iterations to observe the outcome trends.
 
-### [Relapsed App Open sourced]([https://github.com/yourgithubusername/project3](https://github.com/KamilBourouiba/Relapsed-OpenSourced))
-An app of mine that I decide to opensource so people can use UI elements for their projects.
+### [Relapsed App Open Sourced](https://github.com/KamilBourouiba/Relapsed-OpenSourced)
+An app of mine that I decided to open-source so people can use UI elements for their projects.
 
 ## Connect with Me 🌐
 
-- LinkedIn: [Kamil Bourouiba]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/kamil-bourouiba/))
+- LinkedIn: [Kamil Bourouiba](https://www.linkedin.com/in/kamil-bourouiba/)
 
 ---
 
-⭐️ From [Kamil Bourouiba]([https://github.com/yourgithubusername](https://github.com/KamilBourouiba/))
+⭐️ From [Kamil Bourouiba](https://github.com/KamilBourouiba/)
